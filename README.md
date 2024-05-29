@@ -1,6 +1,6 @@
 # blowfish-landing
 
-This template should help get you started developing with Vue 3 in Vite.
+Copied from this design on Dribbble: [musician grunge | landing by Kate Jasper](https://dribbble.com/shots/17963589-musician-grunge-landing)
 
 ## Recommended IDE Setup
 
